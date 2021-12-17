@@ -7,9 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-Hi, my name is Eliza
-
 ## Working Papers
   The Dynamic Decision of Employees' Training <br>
   [Paper](http://elizasg.github.io/files/training.pdf)
