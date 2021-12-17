@@ -1,9 +1,9 @@
 ---
-title: "Teaching experience 1"
+title: "Principles in Microeconomics"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+venue: "University of Surrey"
 date: 2018/2019
 location: "Guildford, Surrey"
 ---
