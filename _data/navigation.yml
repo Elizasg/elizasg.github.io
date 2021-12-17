@@ -7,7 +7,7 @@ main:
     url: /teaching/    
           
   - title: "CV"
-    url: /cv/
+    url:  http://academicpages.github.io/files/paper1.pdf
     
   - title: "Guide"
     url: /markdown/
