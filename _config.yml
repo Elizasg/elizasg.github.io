@@ -184,10 +184,10 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
+  # _Albus
   - scope:
       path: ""
-      type: posts
+      type: Albus
     values:
       layout: single
       author_profile: true
