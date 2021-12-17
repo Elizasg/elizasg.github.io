@@ -10,15 +10,12 @@ redirect_from:
 
 Hi, my name is Eliza
 
-## Research
-  [Paper1](http://elizasg.github.io/files/paper1.pdf)
+## Working Papers
+  [The Dynamic Decision of Employees' Training](http://elizasg.github.io/files/training.pdf)
+  Approximately Accounting for Unobserved Heterogeneity in Dynamic Discrete Choice Models
 
-## Markdown guide
+## Work in Progress
 
-### Header three
+  
 
-#### Header four
 
-##### Header five
-
-###### Header six
