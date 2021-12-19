@@ -16,6 +16,9 @@ redirect_from:
 
 ### Work in Progress
 
+  On the Discretisation of Dynamic Discrete Choice Models
+  
+  
   
 
 
