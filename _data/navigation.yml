@@ -7,8 +7,8 @@ main:
   - title: "CV"
     url:  http://elizasg.github.io/files/CV.pdf
     
-  - title: "Else"
-    url: /markdown/
+ # - title: "Else"
+  #  url: /markdown/
     
   - title: "Albus"
     url: /Albus/
